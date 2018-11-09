@@ -1,4 +1,8 @@
 # DevOps
+https://dzone.com/articles/its-official-database-development-is-now-part-of-d
+
+https://dzone.com/articles/the-future-of-devops-3
+https://dzone.com/articles/problems-solved-by-devops
 
 # Open SOurce COurse
 https://github.com/DevOpsBasicSetup/Phase-1-Discussions
