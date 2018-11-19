@@ -1,3 +1,8 @@
+
+
+# 100 DevOps Terms, or, What Does Your DevOps Say?
+https://dzone.com/articles/100-devops-terms-or-what-does-your-devops-say
+
 # DevOps
 https://dzone.com/articles/its-official-database-development-is-now-part-of-d
 
